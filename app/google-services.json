@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1020995475508",
+    "firebase_url": "https://learn-poems.firebaseio.com",
+    "project_id": "learn-poems",
+    "storage_bucket": "learn-poems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020995475508:android:3bac4f2922d2d55f",
+        "android_client_info": {
+          "package_name": "com.tekprosft.starwardemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dEcPfh1DTDlW3AU6PmzmxWZLn9UipLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020995475508-ltu7miq0hmpcpkthm8kss3ovoja1rb2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
